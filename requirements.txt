@@ -1,0 +1,4 @@
+Programs and version used for the project:
+MATLAB R2020b
+Arduino 1.8.13
+KiCad 5.1.8
